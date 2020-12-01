@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/-Startxlabs-Assignment/static/css/main.9d37e273.chunk.css",
+    "main.js": "/-Startxlabs-Assignment/static/js/main.7e88c5a2.chunk.js",
+    "main.js.map": "/-Startxlabs-Assignment/static/js/main.7e88c5a2.chunk.js.map",
+    "runtime-main.js": "/-Startxlabs-Assignment/static/js/runtime-main.5f2be785.js",
+    "runtime-main.js.map": "/-Startxlabs-Assignment/static/js/runtime-main.5f2be785.js.map",
+    "static/js/2.08e39ea3.chunk.js": "/-Startxlabs-Assignment/static/js/2.08e39ea3.chunk.js",
+    "static/js/2.08e39ea3.chunk.js.map": "/-Startxlabs-Assignment/static/js/2.08e39ea3.chunk.js.map",
+    "static/js/3.2d888753.chunk.js": "/-Startxlabs-Assignment/static/js/3.2d888753.chunk.js",
+    "static/js/3.2d888753.chunk.js.map": "/-Startxlabs-Assignment/static/js/3.2d888753.chunk.js.map",
+    "index.html": "/-Startxlabs-Assignment/index.html",
+    "static/css/main.9d37e273.chunk.css.map": "/-Startxlabs-Assignment/static/css/main.9d37e273.chunk.css.map",
+    "static/js/2.08e39ea3.chunk.js.LICENSE.txt": "/-Startxlabs-Assignment/static/js/2.08e39ea3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f2be785.js",
+    "static/js/2.08e39ea3.chunk.js",
+    "static/css/main.9d37e273.chunk.css",
+    "static/js/main.7e88c5a2.chunk.js"
+  ]
+}
